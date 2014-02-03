@@ -1,0 +1,19 @@
+---
+layout: default
+title: One Story Daily Reading
+---
+
+<div class="toc">
+  <ul>
+    {% for post in site.posts reversed %}
+      <li><a href="#{{ post.shortname }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
+
+<h1>OneStory</h1>
+
+{% for post in site.posts reversed %}
+  <h2 id="{{ post.shortname }}" class="chapter">{{ post.title }}</h2>
+  {{ post.content }}
+{% endfor %}
