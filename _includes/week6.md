@@ -1,4 +1,4 @@
-__Jacob sees the ladder to Heaven. Joseph pictures Christ’s suffering, rejection, and elevation to the throne.__
+__Jacob sees the ladder to Heaven. Joseph pictures Christ's suffering, rejection, and elevation to the throne.__
 
 Sometimes, like Jacob, we are surprised to learn that God has always been here. As believers, Christ serves as our ladder to Heaven.
 
